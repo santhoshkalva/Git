@@ -3,3 +3,9 @@ This is practice repo second
 This is practice repo first 
 This is 5th line
 THis is 6th line
+<<<<<<< HEAD
+=======
+This is 7th line
+This is 8th line
+This is 9th line
+>>>>>>> a9c4955... 9th line added
